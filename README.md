@@ -10,6 +10,6 @@ For a real-world example of SOPs created with this *SOPs Cookiecutter*, please c
 ## License
 This template is public domain under the terms of the CC0-1.0 license.
 
-### Note: this project used to be called MRIQC-SOPs
+### Note: this project used to be called MRIQC-SOPs 
 However, it was clear that the project's scope was beyond just MRI or MRI QA/QC.
 
