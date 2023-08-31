@@ -1,5 +1,5 @@
 # *SOPs Cookiecutter*
-A template repo for bootstrapping and maintaining SOPs (Standard operation procedures)
+A template repo for bootstrapping and maintaining SOPs (Standard operation procedures) 
 
 ## Documentation
 How to use this template is shown with an example of SOPs built with this framework at [nipreps.org/sops-cookiecutter](https://www.nipreps.org/sops-cookiecutter).
